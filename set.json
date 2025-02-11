@@ -1,0 +1,83 @@
+{
+    "Ethereum_Mainnet": {
+        "ChainId": "1",
+        "L2Encode": "",
+        "USDC": "",
+        "AUSDC": "",
+        "AavePool": "",
+        "Domain": "0",
+        "TokenMessenger": "0xbd3fa81b58ba92a82136038b25adec7066af3155",
+        "MessageTransmitter": "0x0a992d191deec32afe36203ad87d7d289a738f81"
+    },
+    "Op_Mainnet": {
+        "ChainId": "10",
+        "L2Encode": "0x9abADECD08572e0eA5aF4d47A9C7984a5AA503dC",
+        "USDC": "",
+        "AUSDC": "",
+        "AavePool": "",
+        "Domain": "2",
+        "TokenMessenger": "0x2B4069517957735bE00ceE0fadAE88a26365528f",
+        "MessageTransmitter": "0x4d41f22c5a0e5c74090899e5a8fb597a8842b3e8"
+    },
+    "Arbitrum_Mainnet": {
+        "ChainId": "42161",
+        "L2Encode": "0x9abADECD08572e0eA5aF4d47A9C7984a5AA503dC",
+        "USDC": "",
+        "AUSDC": "",
+        "AavePool": "",
+        "Domain": "3",
+        "TokenMessenger": "0x19330d10D9Cc8751218eaf51E8885D058642E08A",
+        "MessageTransmitter": "0xC30362313FBBA5cf9163F0bb16a0e01f01A896ca"
+    },
+    "Base_Mainnet": {
+        "ChainId": "8453",
+        "L2Encode": "0x39e97c588B2907Fb67F44fea256Ae3BA064207C5",
+        "USDC": "",
+        "AUSDC": "",
+        "AavePool": "",
+        "Domain": "6",
+        "TokenMessenger": "0x1682Ae6375C4E4A97e4B583BC394c861A46D8962",
+        "MessageTransmitter": "0xAD09780d193884d503182aD4588450C416D6F9D4"
+    },
+    "Sepolia": {
+        "ChainId": "11155111",
+        "L2Encode": "",
+        "USDC": "0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8",
+        "AUSDC": "",
+        "AavePool": "",
+        "Domain": "0",
+        "TokenMessenger": "0x9f3B8679c73C2Fef8b59B4f3444d4e156fb70AA5",
+        "MessageTransmitter": "0x7865fAfC2db2093669d92c0F33AeEF291086BEFD"
+    },
+    "Op_Sepolia": {
+        "ChainId": "11155420",
+        "L2Encode": "0xBeC519531F0E78BcDdB295242fA4EC5251B38574",
+        "USDC": "",
+        "AUSDC": "",
+        "AavePool": "",
+        "Domain": "2",
+        "TokenMessenger": "0x9f3B8679c73C2Fef8b59B4f3444d4e156fb70AA5",
+        "MessageTransmitter": "0x7865fAfC2db2093669d92c0F33AeEF291086BEFD"
+    },
+    "Arbitrum_Sepolia": {
+        "ChainId": "421614",
+        "L2Encode": "0x2E45e7dCD1e94d8edf1605FfF4602912FDC662bC",
+        "USDC": "",
+        "AUSDC": "",
+        "AavePool": "",
+        "Domain": "3",
+        "TokenMessenger": "0x9f3B8679c73C2Fef8b59B4f3444d4e156fb70AA5",
+        "MessageTransmitter": "0xaCF1ceeF35caAc005e15888dDb8A3515C41B4872"
+    },
+    "Base_Sepolia": {
+        "ChainId": "84532",
+        "L2Encode": "0x0ffE481FBF0AE2282A5E1f701fab266aF487A97D",
+        "USDC": "",
+        "AUSDC": "",
+        "AavePool": "",
+        "Domain": "6",
+        "TokenMessenger": "0x9f3B8679c73C2Fef8b59B4f3444d4e156fb70AA5",
+        "MessageTransmitter": "0x7865fAfC2db2093669d92c0F33AeEF291086BEFD"
+    }
+
+}
