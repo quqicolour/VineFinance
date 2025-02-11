@@ -1,4 +1,4 @@
-# VineFinance - modular decentralized revenue marketplace protocol
+# VineFinance
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.20-blue)](https://soliditylang.org/)
 [![Hardhat](https://img.shields.io/badge/Hardhat-2.12.0-yellow)](https://hardhat.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
