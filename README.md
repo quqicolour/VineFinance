@@ -19,6 +19,7 @@ git clone https://github.com/quqicolour/VineFinance.git
 cd VineFinance
 npm install
 set .env
+```bash
 npx hardhat run scripts/test_deploy.js --network arb_sepolia
 npx hardhat run scripts/test_deploy.js --network op_sepolia
 npx hardhat run scripts/test_deploy.js --network base_sepolia
