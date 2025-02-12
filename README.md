@@ -24,7 +24,9 @@ The dreaded high Gas prices are terrifying to the average retail investor. If a 
 ## ✨ Become a curator
 Users can register as a curator directly through Vine's Governance and then choose trusted factory modules to create their own policies.
 
-##✨ Local run
+
+## ✨ Local run
+
 ```bash
 git clone https://github.com/quqicolour/VineFinance.git
 cd VineFinance
