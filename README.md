@@ -21,9 +21,10 @@ For example: Aave V3, ordinary users want to go to Defi pledge farming, but beca
 
 The dreaded high Gas prices are terrifying to the average retail investor. If a user goes through Vine, then he can capture, for example, Ethereum's current highest pledge yield on a cheap layer2.
 
-## Become a curator
+## ✨ Become a curator
 Users can register as a curator directly through Vine's Governance and then choose trusted factory modules to create their own policies.
 
+##✨ Local run
 ```bash
 git clone https://github.com/quqicolour/VineFinance.git
 cd VineFinance
