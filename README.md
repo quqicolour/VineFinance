@@ -1,7 +1,7 @@
 # VineFinance
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.23-blue)](https://soliditylang.org/)
 [![Hardhat](https://img.shields.io/badge/Hardhat-2.22.17-yellow)](https://hardhat.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## ✨ Intro
 Vine finance is an innovative modular DeFi revenue protocol that enables seamless integration with multiple DeFi protocols on different blockchains through powerful cross-chain technology. 
